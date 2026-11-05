@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=testwithsuraj&label=Profile%20views&color=0969da&style=flat-square)
 ### Hi, I'm Suraj 👋
 
 👉 I build open-source developer tools, with a focus on AI and CLIs<br>
